@@ -15,8 +15,9 @@
 #
 
 extensions:
-  - component: components/JupyterDashboard
+  - component: components/GrafanaDashboard
     extensionPoint: jenkins.pipeline.run.tests.header
 
-  - component: components/GrafanaDashboard
+  - component: components/JupyterDashboard
     extensionPoint: jenkins.pipeline.run.tests.footer
+

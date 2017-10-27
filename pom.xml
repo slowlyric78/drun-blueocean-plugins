@@ -10,7 +10,7 @@
         <relativePath/>
     </parent>
     <groupId>io.jenkins.blueocean.plugins</groupId>
-    <artifactId>drun-blueocean-plugins</artifactId>
+    <artifactId>drun-blueocean-plugin</artifactId>
     <version>1.0-SNAPSHOT</version>
     <packaging>hpi</packaging>
 
